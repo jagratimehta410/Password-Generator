@@ -21,6 +21,10 @@ password-generator/
 ├── styles.css # CSS styles
 └── script.js # JavaScript functionality
 
+**Live Demo**
+---------
+
+<a href="https://jagratimehta410.github.io/Tic-Tac-Toe-game/" target="_blank">Live 👉 Click to play the game live!</a>
 
 ## 🚀 Usage
 
