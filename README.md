@@ -24,7 +24,7 @@ password-generator/
 **Live Demo**
 ---------
 
-<a href="https://jagratimehta410.github.io/Tic-Tac-Toe-game/" target="_blank">Live 👉 Click to play the game live!</a>
+<a href="https://jagratimehta410.github.io/Password-Generator/" target="_blank">Live 👉 Click to generate the password !</a>
 
 ## 🚀 Usage
 
